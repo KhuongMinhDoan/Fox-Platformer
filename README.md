@@ -1,8 +1,3 @@
-# fox-platformer-wnetwork
-This is an add up to Alvin Roe platformer tutorial, adding a simple networking feature
+I learn from the Channel Youtube: https://www.youtube.com/@AlvinRoe
 
-The code is based on the tutorial from Youtube Alvin Roe's channel :
-https://www.youtube.com/channel/UCBEzA1UQD310iEdiQGgWqwg
-
-The tutorial serie can be found here : 
-https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
+YouTube learn video: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH
